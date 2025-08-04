@@ -1,0 +1,24 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*~ 
+*.swp
+
+# Shell script logs and env files
+*.log
+.env
+
+# Backup and build artifacts
+*.bak
+.cache/
+
+# Node dependencies (if you ever add a JS toolchain)
+node_modules/
+
+# Python caches (in case you add Python helpers)
+__pycache__/
+*.py[cod]
